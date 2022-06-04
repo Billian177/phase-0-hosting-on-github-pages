@@ -1,0 +1,9 @@
+body{
+    background: blue;
+    display: block;
+}
+h1{
+    font-family: serif;
+    text-align: center;
+    background-color: aqua;
+}
